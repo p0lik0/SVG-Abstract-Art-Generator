@@ -1,0 +1,5 @@
+4
+Polygon 0 0 0 black black 4 0 0 300 0 300 300 0 300
+Polygon 0 0 0 red red 4 25 25 275 25 275 275 25 275
+Polygon 0 0 0 green green 4 50 50 250 50 250 250 50 250
+Polygon 0 0 0 blue blue 4 75 75 225 75 225 225 75 225
