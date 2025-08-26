@@ -89,4 +89,3 @@ Then open `test_rand_tableau_*.html` in your browser.
 ## 📜 License
 
 This project is provided for educational purposes. You are free to modify and adapt it.
-
